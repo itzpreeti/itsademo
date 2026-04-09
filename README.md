@@ -1,4 +1,4 @@
 # itsademo
 This is my first github repositary
 <br>
-Author: Preeti Khanna
+Author: Preeti Khanna(student)
